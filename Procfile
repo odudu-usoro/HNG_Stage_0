@@ -1,3 +1,1 @@
-web:
-gunicorn
-profile_api.wsgi
+web: gunicorn profile_api.wsgi
