@@ -16,7 +16,7 @@ def me(request):
     data = {
         "status": "success",
         "user": {
-            "email": "your_email@example.com",
+            "email": "yakndarausoro1@gmail.com",
             "name": "Oduduabasi Usoro",
             "stack": "Python/Django"
         },
